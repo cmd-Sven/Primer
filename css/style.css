@@ -29,3 +29,19 @@ h1 {
       -2px -15px 11px #f80, -2px -25px 18px #f20;
   }
 }
+
+/* ############################### HEADER ############################### */
+
+header {
+  padding: 20px;
+  background-color: #b4b4b4;
+}
+
+/* ################## NAVIGATION ##################*/
+
+nav {
+  display: flex;
+  justify-content: left;
+  background-color: #7b7b7b;
+  padding: 10px;
+}
