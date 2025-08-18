@@ -1,4 +1,4 @@
-.gallery_images {
+.gallery-image {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -6,7 +6,7 @@
   box-shadow: 5px 5px 11px -2px rgba(0, 0, 0, 0.83);
 }
 
-.gallery_images:hover {
+.gallery-image:hover {
   transform: scale(1.05);
   box-shadow: 8px 5px 17px 4px rgba(0, 0, 0, 0.75);
 }
