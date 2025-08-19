@@ -9,4 +9,10 @@
 .gallery-image:hover {
   transform: scale(1.05);
   box-shadow: 8px 5px 17px 4px rgba(0, 0, 0, 0.75);
+  cursor: zoom-in;
+}
+
+.gallery-image:active {
+  transform: scale(2);
+  cursor: zoom-out;
 }
